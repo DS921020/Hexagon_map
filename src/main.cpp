@@ -8,7 +8,6 @@
 #include <tf/LinearMath/Quaternion.h>
 #include <geometry_msgs/PoseStamped.h>
 #include <geometry_msgs/PoseArray.h>
-#include "visualization_msgs/ImageMarker.h"
 #include "nav_msgs/OccupancyGrid.h"
 #include "hexagon_map/point.h"
 #include "hexagon_map/hexagon_map.h"
